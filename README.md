@@ -8,7 +8,7 @@ Welcome to my GitHub Copilot presentation at [people + ai](https://peopleplus.ai
 
 **GitHub Copilot is your AI pair programmer!**
 
-GitHub Copilot is a cloud-based artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code, Visual Studio, Neovim, and JetBrains integrated development environments by autocompleting code.
+[GitHub Copilot](https://gh.io/copilot) is a cloud-based artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code, Visual Studio, Neovim, and JetBrains integrated development environments by autocompleting code.
 
 Learn more—[gh.io/copilot](https://gh.io/copilot)
 
@@ -16,7 +16,7 @@ Learn more—[gh.io/copilot](https://gh.io/copilot)
 
 **No - GitHub Copilot uses the OpenAI Codex Model and GPT-3 behind the scenes.**
 
-The term “AI pair programmer” and “Copilot” implies that this tool cannot work without you–the developer! It’s not magic. It cannot read minds, although it sometimes feels like it can. However, by sharing code completion suggestions based on my project’s context and style conventions, GitHub Copilot increased my velocity and confidence as a programmer. It uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+The term *“AI pair programmer”* and *“Copilot”* implies that this tool cannot work without you–the developer! It’s not magic. It cannot read minds, although it sometimes feels like it can. However, by sharing code completion suggestions based on my project’s context and style conventions, GitHub Copilot increased my velocity and confidence as a programmer. It uses the **OpenAI Codex** to suggest code and entire functions in real-time, right from your editor.
 
 Explore [OpenAI](https://openai.com/) playground to learn more.
 
