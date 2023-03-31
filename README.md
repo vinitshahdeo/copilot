@@ -40,6 +40,8 @@ If you want to try it yourself, you can install the GitHub Copilot extension in 
 
 With chat and terminal interfaces, support for pull requests, and early adoption of OpenAI’s GPT-4, GitHub Copilot X is our vision for the future of AI-powered software development. Integrated into every part of your workflow.
 
+[![YouTube](https://img.shields.io/badge/YouTube-GitHub%20Copilot%20X-critical?logo=youtube)](https://youtu.be/4RfD5JiXt3A)
+
 Watch the [video on YouTube](https://youtu.be/4RfD5JiXt3A) to learn more about **Copilot X** or visit [gh.io/copilotx](https://gh.io/copilotx)
 
 ## 🔮 GitHub Next
