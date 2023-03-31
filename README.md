@@ -34,9 +34,9 @@ Here are the 3 main features of GitHub Copilot:
 
 If you want to try it yourself, you can install the GitHub Copilot extension in your favorite editor. Here's how you can [get started with GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot).
 
-## 🚀 Copilot X
+## 🚀 GitHub Copilot X
 
-**Your AI pair programmer is leveling up!**
+**Your AI pair programmer is leveling up!** 
 
 With chat and terminal interfaces, support for pull requests, and early adoption of OpenAI’s GPT-4, GitHub Copilot X is our vision for the future of AI-powered software development. Integrated into every part of your workflow.
 
