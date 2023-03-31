@@ -50,4 +50,6 @@ Learn more—[githubnext.com](https://githubnext.com/)
 
 ## 🙏🏻 Thank you
 
+Finally, I'd like to introduce myself as your GitHub Copilot trainer. My name is [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/) and I'm a software engineer and [GitHub Star](https://stars.github.com/profiles/vinitshahdeo/) hailing from Bengaluru, India. Thank you for joining me in learning about GitHub Copilot. I hope you found it enjoyable and informative. Let's stay connected on Twitter.
 
+:star: Check out [my journey from a GitHub User to a GitHub Star](https://vinitshahdeo.dev/milepost-from-a-github-user-to-a-github-star).
