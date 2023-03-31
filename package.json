@@ -15,7 +15,10 @@
     "github",
     "copilotx",
     "esktep",
-    "peopleai"
+    "peopleai",
+    "ppt",
+    "demo",
+    "presentation"
   ],
   "author": "Vinit Shahdeo <https://github.com/vinitshahdeo>",
   "license": "MIT",
