@@ -1,4 +1,6 @@
-# GitHub Copilot Demo at `people + ai` event
+![GitHub Copilot Demo by @vinitshahdeo](./media/GitHub-Copilot-Demo-By-Vinit-Shahdeo.png)
+
+<h1 align='center'>GitHub Copilot Demo at <code>people + ai</code> event</h1>
 
 Welcome to my GitHub Copilot presentation at [people + ai](https://peopleplus.ai/) event in Bengaluru, India. In this presentation, I will be discussing GitHub Copilot, a groundbreaking tool that has revolutionized the way we write code. Below you will find some information on what Copilot is, its features, how to install it, and an exciting announcement about the future of Copilot.
 
@@ -43,6 +45,8 @@ Watch the [video on YouTube](https://youtu.be/4RfD5JiXt3A) to learn more about *
 ## 🔮 GitHub Next
 
 The [GitHub Next](https://githubnext.com/) team is a group of researchers and engineers focused on investigating the future of software development, and they developed a hands-free voice-activated AI programmer called **“Hey, GitHub.”**
+
+Learn more—[githubnext.com](https://githubnext.com/)
 
 ## 🙏🏻 Thank you
 
