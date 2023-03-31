@@ -2,13 +2,13 @@
 
 <h1 align='center'>GitHub Copilot Demo at <code>people + ai</code> event</h1>
 
-Welcome to my GitHub Copilot presentation at [people + ai](https://peopleplus.ai/) event in Bengaluru, India. In this presentation, I will be discussing GitHub Copilot, a groundbreaking tool that has revolutionized the way we write code. Below you will find some information on what Copilot is, its features, how to install it, and an exciting announcement about the future of Copilot.
+Welcome to my GitHub Copilot presentation at [people + ai](https://peopleplus.ai/) event in Bengaluru, India. In this presentation, I will be discussing GitHub Copilot, a groundbreaking tool that has revolutionized the way we write code. Below you will find some information on what Copilot is, its features, how to install it, and an exciting announcement about the future of Copilot. **[I tried GitHub Copilot](https://vinitshahdeo.dev/github-copilot) (and you should too!) 🤖 🚀**
 
 ## 🤖 What is GitHub Copilot?
 
 **GitHub Copilot is your AI pair programmer!**
 
-[GitHub Copilot](https://gh.io/copilot) is a cloud-based artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code, Visual Studio, Neovim, and JetBrains integrated development environments by autocompleting code.
+[GitHub Copilot](https://gh.io/copilot) is a cloud-based artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code, Visual Studio, Neovim, and JetBrains integrated development environments by autocompleting code. **[I tried GitHub Copilot](https://vinitshahdeo.dev/github-copilot) (and you should too!) 🤖 🚀**
 
 Learn more—[gh.io/copilot](https://gh.io/copilot)
 
@@ -50,6 +50,6 @@ Learn more—[githubnext.com](https://githubnext.com/)
 
 ## 🙏🏻 Thank you
 
-Finally, I'd like to introduce myself as your GitHub Copilot trainer. My name is [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/) and I'm a software engineer and [GitHub Star](https://stars.github.com/profiles/vinitshahdeo/) hailing from Bengaluru, India. Thank you for joining me in learning about GitHub Copilot. I hope you found it enjoyable and informative. Let's stay connected on Twitter.
+Finally, I'd like to introduce myself as your GitHub Copilot trainer. My name is [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/) and I'm a software engineer and [GitHub Star](https://stars.github.com/profiles/vinitshahdeo/) hailing from Bengaluru, India. Thank you for joining me in learning about GitHub Copilot. I hope you found it enjoyable and informative. Let's stay connected on [Twitter](https://twitter.com/Vinit_Shahdeo).
 
 :star: Check out [my journey from a GitHub User to a GitHub Star](https://vinitshahdeo.dev/milepost-from-a-github-user-to-a-github-star).
