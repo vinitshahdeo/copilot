@@ -10,7 +10,7 @@ Welcome to my GitHub Copilot presentation at [people + ai](https://peopleplus.ai
 
 [GitHub Copilot](https://gh.io/copilot) is a cloud-based artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code, Visual Studio, Neovim, and JetBrains integrated development environments by autocompleting code. **[I tried GitHub Copilot](https://vinitshahdeo.dev/github-copilot) (and you should too!) 🤖 🚀**
 
-Learn more—[gh.io/copilot](https://gh.io/copilot)
+Learn more — [gh.io/copilot](https://gh.io/copilot)
 
 ## 🧙‍♂️ Is Copilot a magic?
 
@@ -28,7 +28,7 @@ Here are the 3 main features of GitHub Copilot:
 2. **Autofill for repetitive code**: quickly produces boilerplate and fills in repetitive code patterns
 3. **Show alternatives**: show a list of solutions to use as provided, or edit to meet your needs
 
-> **Note**: For suggested code, certain languages like **Python**, **JavaScript**, **TypeScript**, and **Go** might perform better compared to other programming languages. Learn more—[gh.io/copilot](https://gh.io/copilot)
+> **Note**: For suggested code, certain languages like **Python**, **JavaScript**, **TypeScript**, and **Go** might perform better compared to other programming languages. Learn more — [gh.io/copilot](https://gh.io/copilot)
 
 ## 💻 How can you install Copilot?
 
@@ -46,7 +46,7 @@ Watch the [video on YouTube](https://youtu.be/4RfD5JiXt3A) to learn more about *
 
 The [GitHub Next](https://githubnext.com/) team is a group of researchers and engineers focused on investigating the future of software development, and they developed a hands-free voice-activated AI programmer called **“Hey, GitHub.”**
 
-Learn more—[githubnext.com](https://githubnext.com/)
+Learn more — [githubnext.com](https://githubnext.com/)
 
 ## 🙏🏻 Thank you
 
