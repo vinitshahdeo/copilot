@@ -2,9 +2,7 @@
 
 <h1 align='center'>GitHub Copilot Demo at <code>people + ai</code> event</h1>
 
-Welcome to my GitHub Copilot presentation at [people + ai](https://peopleplus.ai/) event in Bengaluru, India. In this [presentation](https://github.com/vinitshahdeo/copilot/blob/main/presentation/GitHub%20Copilot%20-%20Presentation%20by%20vinitshahdeo.pdf), I will be discussing GitHub Copilot, a groundbreaking tool that has revolutionized the way we write code. Below you will find some information on what Copilot is, its features, how to install it, and an exciting announcement about the future of Copilot. [I tried GitHub Copilot](https://vinitshahdeo.dev/github-copilot) (**and you should too!**) 🤖 🚀 Check out my [PPT on GitHub Copilot](https://github.com/vinitshahdeo/copilot/blob/main/presentation/GitHub%20Copilot%20-%20Presentation%20by%20vinitshahdeo.pdf). Scan the QR code below to download the PPT.
-
-<img src='./media/qr-github-copilot-ppt.png' width = '160px' height = '160px' />
+Welcome to my GitHub Copilot presentation at [people + ai](https://peopleplus.ai/) event in Bengaluru, India. In this [presentation](https://github.com/vinitshahdeo/copilot/blob/main/presentation/GitHub%20Copilot%20-%20Presentation%20by%20vinitshahdeo.pdf), I will be discussing GitHub Copilot, a groundbreaking tool that has revolutionized the way we write code. Below you will find some information on what Copilot is, its features, how to install it, and an exciting announcement about the future of Copilot. [I tried GitHub Copilot](https://vinitshahdeo.dev/github-copilot) (**and you should too!**) 🤖 🚀 Check out my [PPT on GitHub Copilot](https://github.com/vinitshahdeo/copilot/blob/main/presentation/GitHub%20Copilot%20-%20Presentation%20by%20vinitshahdeo.pdf). 
 
 ## 🤖 What is GitHub Copilot?
 
@@ -51,6 +49,12 @@ Watch the [video on YouTube](https://youtu.be/4RfD5JiXt3A) to learn more about *
 The [GitHub Next](https://githubnext.com/) team is a group of researchers and engineers focused on investigating the future of software development, and they developed a hands-free voice-activated AI programmer called **“Hey, GitHub.”**
 
 Learn more — [githubnext.com](https://githubnext.com/)
+
+## 📊 Presentation
+
+Check out my [PPT on GitHub Copilot](https://github.com/vinitshahdeo/copilot/blob/main/presentation/GitHub%20Copilot%20-%20Presentation%20by%20vinitshahdeo.pdf). **Scan the QR code** below to download the PPT. If you have any questions or feedback, feel free to reach out to me.
+
+<img src='./media/qr-github-copilot-ppt.png' width = '160px' height = '160px' />
 
 ## 🙏🏻 Thank you
 
