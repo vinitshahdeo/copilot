@@ -2,7 +2,9 @@
 
 <h1 align='center'>GitHub Copilot Demo at <code>people + ai</code> event</h1>
 
-Welcome to my GitHub Copilot presentation at [people + ai](https://peopleplus.ai/) event in Bengaluru, India. In this [presentation](https://github.com/vinitshahdeo/copilot/blob/main/presentation/GitHub%20Copilot%20-%20Presentation%20by%20vinitshahdeo.pdf), I will be discussing GitHub Copilot, a groundbreaking tool that has revolutionized the way we write code. Below you will find some information on what Copilot is, its features, how to install it, and an exciting announcement about the future of Copilot. [I tried GitHub Copilot](https://vinitshahdeo.dev/github-copilot) (**and you should too!**) 🤖 🚀 Check out my [PPT on GitHub Copilot](https://github.com/vinitshahdeo/copilot/blob/main/presentation/GitHub%20Copilot%20-%20Presentation%20by%20vinitshahdeo.pdf).
+Welcome to my GitHub Copilot presentation at [people + ai](https://peopleplus.ai/) event in Bengaluru, India. In this [presentation](https://github.com/vinitshahdeo/copilot/blob/main/presentation/GitHub%20Copilot%20-%20Presentation%20by%20vinitshahdeo.pdf), I will be discussing GitHub Copilot, a groundbreaking tool that has revolutionized the way we write code. Below you will find some information on what Copilot is, its features, how to install it, and an exciting announcement about the future of Copilot. [I tried GitHub Copilot](https://vinitshahdeo.dev/github-copilot) (**and you should too!**) 🤖 🚀 Check out my [PPT on GitHub Copilot](https://github.com/vinitshahdeo/copilot/blob/main/presentation/GitHub%20Copilot%20-%20Presentation%20by%20vinitshahdeo.pdf). Scan the QR code below to download the PPT.
+
+<img src='./media/qr-github-copilot-ppt.png' width = '160px' height = '160px' />
 
 ## 🤖 What is GitHub Copilot?
 
