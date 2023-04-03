@@ -62,7 +62,7 @@ Check out my [PPT on GitHub Copilot](https://github.com/vinitshahdeo/copilot/blo
 Finally, I'd like to introduce myself as your [GitHub Copilot](https://gh.io/copilot) trainer. My name is [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/) and I'm a software engineer and [GitHub Star](https://stars.github.com/profiles/vinitshahdeo/) hailing from Bengaluru, India. 
 
 <a href='https://twitter.com/Vinit_Shahdeo/status/1642911193240072193'>
-<img src='./media/tweet-github-copilot-x.png' height=50% width=50% />
+<img src='./media/tweet-github-copilot-x.png' height=60% width=60% />
 </a>
 
 Thank you for joining me in learning about GitHub Copilot. I hope you found it enjoyable and informative. Please consider sharing the [sneak peek of GitHub Copilot](https://vinitshahdeo.github.io/copilot/) demo. Here's the [presentation](https://github.com/vinitshahdeo/copilot/blob/main/presentation/GitHub%20Copilot%20-%20Presentation%20by%20vinitshahdeo.pdf) used by me. Let's stay connected on [Twitter](https://twitter.com/Vinit_Shahdeo).
